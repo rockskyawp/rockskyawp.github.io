@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>羿风随笔</title>
+  <subtitle>业精于勤 荒于嬉 行成于思 毁于随</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://iventi.me/"/>
+  <updated>2017-03-30T11:12:02.996Z</updated>
+  <id>https://iventi.me/</id>
+  
+  <author>
+    <name>羿风</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开始了</title>
+    <link href="https://iventi.me/2017/03/29/%E5%BC%80%E5%A7%8B%E4%BA%86/"/>
+    <id>https://iventi.me/2017/03/29/开始了/</id>
+    <published>2017-03-29T10:01:19.000Z</published>
+    <updated>2017-03-30T11:12:02.996Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="开始崭新的生活"><a href="#开始崭新的生活" class="headerlink" title="开始崭新的生活"></a>开始崭新的生活</h1><p>申请了新的域名</p>
+<p>忘记过去的事情 </p>
+<p>开始崭新的生活</p>
+<p>…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;开始崭新的生活&quot;&gt;&lt;a href=&quot;#开始崭新的生活&quot; class=&quot;headerlink&quot; title=&quot;开始崭新的生活&quot;&gt;&lt;/a&gt;开始崭新的生活&lt;/h1&gt;&lt;p&gt;申请了新的域名&lt;/p&gt;
+&lt;p&gt;忘记过去的事情 &lt;/p&gt;
+&lt;p&gt;开始崭新的生活&lt;/p&gt;
+&lt;p&gt;…&lt;/p
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
